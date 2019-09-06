@@ -4,7 +4,7 @@ towers of hanoi is a classic problem demonstrating the usefullness of recursion.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif/240px-Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif)
 
-Gif Source: https://commons.wikimedia.org/wiki/File:Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif
+https://commons.wikimedia.org/wiki/File:Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif
 
 
 ## Usage:
