@@ -10,6 +10,6 @@ https://commons.wikimedia.org/wiki/File:Iterative_algorithm_solving_a_6_disks_To
 ## Usage:
 
 
-```~$ python hanoi.py```
+```~$ python3 hanoi.py```
 
 ![alt text](https://github.com/bradegan/towers-of-hanoi/blob/master/hanoi_visualization.gif?raw=true)
